@@ -3,7 +3,7 @@ Welcome to the github repository for the BaglaenkoLab - until we find a more per
 
 # Projects
 Current ongoing projects that have public/private repositories include
-1. snpGUIDE: an internal tool we've publically shared for "designing" and ranking protospacers targeting variants of interest with base editors (BE4 or ABE8e). Simply input an rsID and the correspodning sequence will be pulled from Ensembl and all possible guides designed. It looks at reference and alternative alleles to determine what is possible and informs if bystander editing is likely. Examine this table carefully. Some SNPs have multiple alternative alleles and you may not be interested in them all. Batch input is also allowed. The functions and shinyApp files can be downloaded and run locally. Good luck
+1. snpGUIDE: an internal tool we've publically shared for "designing" protospacers targeting variants of interest with base editors (BE4 or ABE8e). Simply input an rsID and the correspodning sequence will be pulled from Ensembl and all possible guides designed. It looks at reference and alternative alleles to determine what is possible and informs if bystander editing is likely. Examine this table carefully. Some SNPs have multiple alternative alleles and you may not be interested in them all. Batch input is also allowed. The functions and shinyApp files can be downloaded and run locally. Good luck. Try online at https://baglaenkolab.shinyapps.io/snpGuide/
 
 ![Screenshot 2025-06-03 at 9 44 43 AM](https://github.com/user-attachments/assets/8bb62536-e385-469c-9548-4e4f2525d6b8)
 
